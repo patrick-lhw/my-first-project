@@ -1,0 +1,4 @@
+timestamp,market_id,fill_notional_usd,spread_capture_bps,markout_bps,other_cost_bps,rebate_usd,liquidity_reward_usd,notes
+synthetic-1,TEST_A,100,10,15,1,0.02,0.03,SYNTHETIC ONLY; adverse selection exceeds spread
+synthetic-2,TEST_B,250,12,5,1,0.03,0.10,SYNTHETIC ONLY; illustrative positive row
+synthetic-3,TEST_C,150,8,11,2,0.01,0.02,SYNTHETIC ONLY; adverse selection exceeds spread
